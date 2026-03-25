@@ -1,16 +1,12 @@
-## Hi there 👋
+# 👩‍💻 Hey there, I'm SAMUEL ONYANGO — your friendly neighborhood bug whisperer 🐛✨
 
-<!--
-**Samuelcheche/SamuelCheche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Coffee-powered ☕, code-obsessed 💻 and currently in a committed relationship with my keyboard (don’t tell my IDE 😅). I turn caffeine into code, chaos into clean UIs and Stack Overflow tabs into solutions (most of the time).
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💫 About Me:
+🧠Computer Scientist | 🧩 Problem Solver | 💡 Tech Enthusiast  
+🚀 Passionate about creating clean, efficient, and scalable software solutions.  
+🌐 Specialized in web development, Android development, and machine learning — always hungry to learn more.  
+🛠️ Git is my sidekick. Ctrl + Z is my emergency escape.  
+🌱 I believe bugs are just misunderstood features... until they crash production 😅  
+💬 Always open to collaborating on cool projects or talking about anything tech — or memes.  
+🧁 Fun fact: I write code that sometimes works on the first try... by accident.
